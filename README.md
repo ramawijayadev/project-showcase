@@ -1,7 +1,7 @@
 # 💼 Project Showcase
 
-Hi! I'm Rama — a Full-Stack Developer with experience building scalable web applications across various industries.
-This repository is a curated portfolio of real-world projects I've worked on from **2021 to present**.
+Hi! I'm Rama — a Full-Stack Developer with experience building scalable web applications across various industries.  
+This repository is a curated portfolio of real-world projects I've worked on, across both corporate and freelance settings.
 
 Each section includes:
 
