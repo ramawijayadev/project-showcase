@@ -221,4 +221,6 @@ Each section includes:
 
 Looking to collaborate or hire?  
 📫 Reach me at: ramawijaya.dev@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ramawijayadev) • [GitHub](https://github.com/ramawijaya)
+🔗 [LinkedIn](https://linkedin.com/in/ramawijayadev) ↗  
+🔗 [GitHub](https://github.com/ramawijaya) ↗
+
