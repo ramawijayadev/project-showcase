@@ -220,7 +220,10 @@ Each section includes:
 ## 🧭 About Me
 
 Looking to collaborate or hire?  
+
 📫 Reach me at: ramawijaya.dev@gmail.com  
+
 🔗 [LinkedIn](https://linkedin.com/in/ramawijayadev) ↗  
-🔗 [GitHub](https://github.com/ramawijaya) ↗
+
+🔗 [GitHub](https://github.com/ramawijayadev) ↗
 
