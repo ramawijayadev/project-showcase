@@ -216,3 +216,9 @@ Each section includes:
   ![Preview](screenshots/recommendation-system-–-thesis-project.png)
 
 ---
+
+## 🧭 About Me
+
+Looking to collaborate or hire?  
+📫 Reach me at: ramawijaya.dev@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/ramawijayadev) • [GitHub](https://github.com/ramawijaya)
