@@ -15,7 +15,7 @@ Each section includes:
 
 ### 1. Carpooling B2B System
 - **🧰 Tech Stack:** Laravel, Vue.js, Bootstrap, Next.js, Tailwind, MySQL, Grafana k6
-- **👨‍💻 Role:** Backend-focused Full-Stack Developer
+- **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
   - Migrated core features from mobile to web with redesigned UX flow
   - Built custom APIs, revamped CMS, optimized DB, and legacy bug fixes
