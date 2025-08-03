@@ -27,11 +27,11 @@ Each section includes:
 
 ### 2. Digital Form Web Application
 - **🧰 Tech Stack:** Laravel, jQuery, Bootstrap, Power Automate, MySQL, Dynamics 365
-- **👨‍💻 Role:** Solo Full-Stack Developer
+- **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
-  - Digitized paper-based workflows across departments
-  - Integrated with Power Automate, SharePoint, Azure Entra, Dynamics 365
-  - Streamlined approvals and reduced delays with traceable flows
+  - Handled end-to-end development — from flow design and ERD planning to integration and deployment
+  - Integrated approval flows with Power Automate, Azure Entra, SharePoint, and Dynamics 365
+  - Replaced manual workflows and improved efficiency with centralized, traceable form management
 - **🖼️ Preview:**
   ![Preview](screenshots/digital-form-web-application.png)
 
@@ -39,11 +39,11 @@ Each section includes:
 
 ### 3. Survey & Analytics Platform
 - **🧰 Tech Stack:** Laravel, Next.js, Chakra UI, MySQL
-- **👨‍💻 Role:** Full-Stack Developer
-- **🔍 Highlights:**
-  - Developed internal survey system inspired by Google Forms
-  - Built dashboard for data visualization and streamlined insights
-  - Adopted across company; planned to replace third-party vendors
+- **👨‍💻 Role:** Full-Stack Developer (Backend & System-Oriented)
+- **🔍 Highlights:** 
+  - Led technical planning and built scalable backend systems, database schema, and API architecture
+  - Contributed to frontend development and UI/UX wireframing for survey builder and dashboard
+  - Successfully deployed and adopted company-wide; planned for future use in customer-facing surveys to replace external vendors
 - **🖼️ Preview:**
   ![Preview](screenshots/survey-&-analytics-platform.png)
 
@@ -53,9 +53,9 @@ Each section includes:
 - **🧰 Tech Stack:** Laravel, jQuery, Bootstrap, Next.js, Chakra UI, MySQL, Dynamics 365
 - **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
-  - Developed real-time dashboard for tracking vehicle service data
-  - Built backend APIs, CMS, integrated Dynamics 365 API
-  - Used daily by Repair & Maintenance department
+  - Designed and developed real-time dashboards to monitor vehicle service activities across workshops
+  - Built backend APIs and integrated with Dynamics 365 for live data sync and performance tracking
+  - Actively used as a daily operational tool by the Repair & Maintenance department to improve visibility and coordination
 - **🖼️ Preview:**
   ![Preview](screenshots/workshop-tracking-dashboard.png)
 
@@ -77,9 +77,9 @@ Each section includes:
 - **🧰 Tech Stack:** Laravel, jQuery, Next.js, Chakra UI, MySQL, Dynamics 365
 - **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
-  - Built company website and billing portal from scratch
-  - Integrated DOKU for payments, deployed to production
-  - Boosted SEO and user engagement from previous version
+  - Developed backend APIs, CMS modules, and integrated with Dynamics 365 for the internal billing portal
+  - Built and maintained corporate website — handled CMS, backend logic, and contributed to several frontend pages
+  - Integrated DOKU payment gateway to support B2C transactions during early-phase operations
 - **🖼️ Preview:**
   ![Preview](screenshots/mpmrent-corporate-website-&-billing-portal.png)
 
@@ -87,11 +87,11 @@ Each section includes:
 
 ### 7. SEAToday News Platform
 - **🧰 Tech Stack:** Laravel, jQuery, Bootstrap, MySQL
-- **👨‍💻 Role:** Full-Stack Developer
+- **👨‍💻 Role:** Full-Stack Developer (Frontend-Focused)
 - **🔍 Highlights:**
-  - Revamped UI/UX and modernized frontend components
-  - Integrated ad banners and skyscrapers
-  - Refactored legacy code, tuned queries, deployed live
+  - Revamped main website with responsive UI/UX updates and ad component integrations
+  - Modernized legacy frontend using jQuery + Bootstrap while improving overall usability
+  - Contributed to CMS enhancements and performed selective backend adjustments
 - **🖼️ Preview:**
   ![Preview](screenshots/seatoday-news-platform.png)
 
@@ -113,9 +113,9 @@ Each section includes:
 - **🧰 Tech Stack:** Laravel, jQuery, Tailwind, MySQL
 - **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
-  - Built short-form video platform with custom player integration
-  - Customized dailymotion.com API and responsive layout
-  - Deployed as part of digital content ecosystem
+  - Developed responsive public site for short-form video content
+  - Integrated and customized Dailymotion player API for web playback
+  - Contributed to backend API and CMS for video & banner management
 - **🖼️ Preview:**
   ![Preview](screenshots/seatoday-video-web-application.png)
 
@@ -125,9 +125,9 @@ Each section includes:
 - **🧰 Tech Stack:** CodeIgniter, jQuery, Bootstrap, MySQL, Go
 - **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
-  - Managed dropship orders, products, and shipping integrations
-  - Added BukaSend API and fixed legacy bugs
-  - Improved accuracy and efficiency in ordering flow
+  - Fixed legacy bugs and refactored backend logic for stability
+  - Enhanced dropship workflow with shipping rate integration via BukaSend API
+  - Improved order flow, delivery accuracy, and partner management tools
 - **🖼️ Preview:**
   ![Preview](screenshots/dropship-management-system.png)
 
@@ -195,7 +195,7 @@ Each section includes:
 
 ### 16. Cargo Management System
 - **🧰 Tech Stack:** Laravel, jQuery, Bootstrap, PostgreSQL
-- **👨‍💻 Role:** Junior Developer (Internship)
+- **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
   - Built end-to-end cargo workflows with barcode scanning
   - Handled ERD, logic mapping, and backend/frontend dev
@@ -207,7 +207,7 @@ Each section includes:
 
 ### 17. Recommendation System – Thesis Project
 - **🧰 Tech Stack:** Laravel, jQuery, Bootstrap, MySQL, Python
-- **👨‍💻 Role:** Full-Stack Developer (Academic)
+- **👨‍💻 Role:** Full-Stack Developer
 - **🔍 Highlights:**
   - Developed travel booking platform with login & order system
   - Integrated Python-based item-based recommendation engine
