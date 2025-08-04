@@ -42,7 +42,7 @@ Each section includes:
   ![Preview](digital-form-web-application/eform-2.png)
   ![Preview](digital-form-web-application/eform-3.png)
   ![Preview](digital-form-web-application/eform-4.png)
-  ![Preview](digital-form-web-application/eform-5.png)
+  ![Preview](digital-form-web-application/eform-5-update.png)
   ![Preview](digital-form-web-application/eform-6.png)
 
 ---
