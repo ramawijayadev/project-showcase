@@ -123,6 +123,7 @@ Each section includes:
   ![Preview](seatoday-news-platform/seatoday-news-1.png)
   ![Preview](seatoday-news-platform/seatoday-news-2.png)
   ![Preview](seatoday-news-platform/seatoday-news-3.png)
+  ![Preview](seatoday-news-platform/seatoday-news-4.png)
 
 ---
 
@@ -134,7 +135,11 @@ Each section includes:
   - Stress-tested WebSocket features with Grafana k6
   - Delivered a stable and responsive system
 - **🖼️ Preview:**
-  ![Preview](screenshots/seatoday-quiz-web-application.png)
+  ![Preview](seatoday-quiz-web-application/seatoday-quiz-1.png)
+  ![Preview](seatoday-quiz-web-application/seatoday-quiz-2.png)
+  ![Preview](seatoday-quiz-web-application/seatoday-quiz-3.png)
+  ![Preview](seatoday-quiz-web-application/seatoday-quiz-4.png)
+  ![Preview](seatoday-quiz-web-application/seatoday-quiz-5.png)
 
 ---
 
@@ -146,7 +151,10 @@ Each section includes:
   - Integrated and customized Dailymotion player API for web playback
   - Contributed to backend API and CMS for video & banner management
 - **🖼️ Preview:**
-  ![Preview](screenshots/seatoday-video-web-application.png)
+  ![Preview](seatoday-video-web-application/seatoday-video-1.png)
+  ![Preview](seatoday-video-web-application/seatoday-video-2.jpeg)
+  ![Preview](seatoday-video-web-application/seatoday-video-3.jpeg)
+  ![Preview](seatoday-video-web-application/seatoday-video-4.jpeg)
 
 ---
 
@@ -158,7 +166,9 @@ Each section includes:
   - Enhanced dropship workflow with shipping rate integration via BukaSend API
   - Improved order flow, delivery accuracy, and partner management tools
 - **🖼️ Preview:**
-  ![Preview](screenshots/dropship-management-system.png)
+  ![Preview](dropship-management-system/dms-1.png)
+  ![Preview](dropship-management-system/dms-2.png)
+  ![Preview](dropship-management-system/dms-3.png)
 
 ---
 
