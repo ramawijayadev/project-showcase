@@ -24,6 +24,9 @@ Each section includes:
   ![Preview](carpooling-b2b-system/carpooling-cms-1.png)
   ![Preview](carpooling-b2b-system/carpooling-cms-2.png)
   ![Preview](carpooling-b2b-system/carpooling-cms-3.png)
+  ![Preview](carpooling-b2b-system/carpooling-fe-1.png)
+  ![Preview](carpooling-b2b-system/carpooling-fe-2.png)
+  ![Preview](carpooling-b2b-system/carpooling-fe-3.png)
 
 ---
 
@@ -35,7 +38,12 @@ Each section includes:
   - Integrated approval flows with Power Automate, Azure Entra, SharePoint, and Dynamics 365
   - Replaced manual workflows and improved efficiency with centralized, traceable form management
 - **🖼️ Preview:**
-  ![Preview](screenshots/digital-form-web-application.png)
+  ![Preview](digital-form-web-application/eform-1.png)
+  ![Preview](digital-form-web-application/eform-2.png)
+  ![Preview](digital-form-web-application/eform-3.png)
+  ![Preview](digital-form-web-application/eform-4.png)
+  ![Preview](digital-form-web-application/eform-5.png)
+  ![Preview](digital-form-web-application/eform-6.png)
 
 ---
 
