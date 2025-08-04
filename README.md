@@ -180,7 +180,11 @@ Each section includes:
   - Built access control, status tracking, and UI improvements
   - Delivered and integrated custom modules
 - **🖼️ Preview:**
-  ![Preview](screenshots/commuter-document-system.png)
+  ![Preview](commuter-document-system/cds-1.png)
+  ![Preview](commuter-document-system/cds-2.png)
+  ![Preview](commuter-document-system/cds-3.png)
+  ![Preview](commuter-document-system/cds-4.png)
+  ![Preview](commuter-document-system/cds-5.png)
 
 ---
 
@@ -192,7 +196,14 @@ Each section includes:
   - Developed full features aligning with gov-funded study
   - Built frontend and backend tailored to workflow needs
 - **🖼️ Preview:**
-  ![Preview](screenshots/procurement-web-application.png)
+  ![Preview](procurement-web-application/procurement-1.png)
+  ![Preview](procurement-web-application/procurement-2.png)
+  ![Preview](procurement-web-application/procurement-3.png)
+  ![Preview](procurement-web-application/procurement-4.png)
+  ![Preview](procurement-web-application/procurement-5.png)
+  ![Preview](procurement-web-application/procurement-6.png)
+  ![Preview](procurement-web-application/procurement-7.png)
+  ![Preview](procurement-web-application/procurement-8.png)
 
 ---
 
@@ -204,7 +215,9 @@ Each section includes:
   - Used Redis to share session auth across platforms
   - Handled full-stack dev and multi-source data debugging
 - **🖼️ Preview:**
-  ![Preview](screenshots/billing-management-system.png)
+  ![Preview](billing-management-system/bba-odoo-1.jpeg)
+  ![Preview](billing-management-system/bba-odoo-2.jpeg)
+  ![Preview](billing-management-system/bba-odoo-3.jpeg)
 
 ---
 
@@ -216,7 +229,7 @@ Each section includes:
   - Built sales tracking and contract handling flow
   - Improved coordination and cross-department visibility
 - **🖼️ Preview:**
-  ![Preview](screenshots/order-management-system.png)
+  [documentation-progress]
 
 ---
 
@@ -228,7 +241,10 @@ Each section includes:
   - Created escalation flows, notifications, and asset tracking
   - Optimized queries and supported reporting tools
 - **🖼️ Preview:**
-  ![Preview](screenshots/broadcast-asset-maintenance-system.png)
+  ![Preview](broadcast-asset-maintenance-system/bams-mr-1.jpeg)
+  ![Preview](broadcast-asset-maintenance-system/bams-mr-2.jpeg)
+  ![Preview](broadcast-asset-maintenance-system/bams-mr-3.jpeg)
+  ![Preview](broadcast-asset-maintenance-system/bams-mr-4.jpeg)
 
 ---
 
@@ -240,7 +256,8 @@ Each section includes:
   - Handled ERD, logic mapping, and backend/frontend dev
   - Collaborated with senior dev for real client project
 - **🖼️ Preview:**
-  ![Preview](screenshots/cargo-management-system.png)
+  ![Preview](cargo-management-system/cargo-1.png)
+  ![Preview](cargo-management-system/cargo-2.png)
 
 ---
 
@@ -252,7 +269,14 @@ Each section includes:
   - Integrated Python-based item-based recommendation engine
   - Combined real product flow with academic algorithm design
 - **🖼️ Preview:**
-  ![Preview](screenshots/recommendation-system-–-thesis-project.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-1.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-2.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-3.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-4.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-5.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-6.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-7.png)
+  ![Preview](screenshots/recommendation-system-thesis-project/thesis-8.png)
 
 ---
 
