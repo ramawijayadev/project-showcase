@@ -55,7 +55,11 @@ Each section includes:
   - Contributed to frontend development and UI/UX wireframing for survey builder and dashboard
   - Successfully deployed and adopted company-wide; planned for future use in customer-facing surveys to replace external vendors
 - **🖼️ Preview:**
-  ![Preview](screenshots/survey-&-analytics-platform.png)
+  ![Preview](survey-and-analytics-platform/esurvey-1.png)
+  ![Preview](survey-and-analytics-platform/esurvey-2.png)
+  ![Preview](survey-and-analytics-platform/esurvey-3.png)
+  ![Preview](survey-and-analytics-platform/esurvey-4.png)
+  ![Preview](survey-and-analytics-platform/esurvey-5.png)
 
 ---
 
@@ -67,7 +71,11 @@ Each section includes:
   - Built backend APIs and integrated with Dynamics 365 for live data sync and performance tracking
   - Actively used as a daily operational tool by the Repair & Maintenance department to improve visibility and coordination
 - **🖼️ Preview:**
-  ![Preview](screenshots/workshop-tracking-dashboard.png)
+  ![Preview](workshop-tracking-dashboard/wtd-1.png)
+  ![Preview](workshop-tracking-dashboard/wtd-2.png)
+  ![Preview](workshop-tracking-dashboard/wtd-3.png)
+  ![Preview](workshop-tracking-dashboard/wtd-4.png)
+  ![Preview](workshop-tracking-dashboard/wtd-5.png)
 
 ---
 
@@ -79,7 +87,9 @@ Each section includes:
   - Tuned backend APIs and optimized DB queries in Dynamics 365
   - Implemented new features while improving performance
 - **🖼️ Preview:**
-  ![Preview](screenshots/manpower-management-system.png)
+  ![Preview](manpower-management-system/mps-1.png)
+  ![Preview](manpower-management-system/mps-2.png)
+  ![Preview](manpower-management-system/mps-3.png)
 
 ---
 
@@ -103,7 +113,14 @@ Each section includes:
   - Modernized legacy frontend using jQuery + Bootstrap while improving overall usability
   - Contributed to CMS enhancements and performed selective backend adjustments
 - **🖼️ Preview:**
-  ![Preview](screenshots/seatoday-news-platform.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-1.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-2.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-3.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-4.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-5.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-6.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-7.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-8.png)
 
 ---
 
