@@ -21,7 +21,9 @@ Each section includes:
   - Built custom APIs, revamped CMS, optimized DB, and legacy bug fixes
   - Performed load testing with k6 and handled production monitoring
 - **🖼️ Preview:**
-  ![Preview](screenshots/carpooling-b2b-system.png)
+  ![Preview](carpooling-b2b-system/carpooling-cms-1.png)
+  ![Preview](carpooling-b2b-system/carpooling-cms-2.png)
+  ![Preview](carpooling-b2b-system/carpooling-cms-3.png)
 
 ---
 
