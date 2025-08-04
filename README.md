@@ -166,7 +166,7 @@ Each section includes:
   - Enhanced dropship workflow with shipping rate integration via BukaSend API
   - Improved order flow, delivery accuracy, and partner management tools
 - **🖼️ Preview:**
-  ![Preview](dropship-management-system/dms-1.png)
+  ![Preview](dropship-management-system/dms-1-update.png)
   ![Preview](dropship-management-system/dms-2.png)
   ![Preview](dropship-management-system/dms-3.png)
 
