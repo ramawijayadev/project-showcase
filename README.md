@@ -269,14 +269,14 @@ Each section includes:
   - Integrated Python-based item-based recommendation engine
   - Combined real product flow with academic algorithm design
 - **🖼️ Preview:**
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-1.png)
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-2.png)
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-3.png)
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-4.png)
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-5.png)
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-6.png)
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-7.png)
-  ![Preview](screenshots/recommendation-system-thesis-project/thesis-8.png)
+  ![Preview](recommendation-system-thesis-project/thesis-1.png)
+  ![Preview](recommendation-system-thesis-project/thesis-2.png)
+  ![Preview](recommendation-system-thesis-project/thesis-3.png)
+  ![Preview](recommendation-system-thesis-project/thesis-4.png)
+  ![Preview](recommendation-system-thesis-project/thesis-5.png)
+  ![Preview](recommendation-system-thesis-project/thesis-6.png)
+  ![Preview](recommendation-system-thesis-project/thesis-7.png)
+  ![Preview](recommendation-system-thesis-project/thesis-8.png)
 
 ---
 
