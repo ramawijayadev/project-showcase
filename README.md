@@ -101,7 +101,14 @@ Each section includes:
   - Built and maintained corporate website — handled CMS, backend logic, and contributed to several frontend pages
   - Integrated DOKU payment gateway to support B2C transactions during early-phase operations
 - **🖼️ Preview:**
-  ![Preview](screenshots/mpmrent-corporate-website-&-billing-portal.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-1.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-2.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-3.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-4.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-5.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-6.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-7.png)
+  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-8.png)
 
 ---
 
@@ -113,14 +120,9 @@ Each section includes:
   - Modernized legacy frontend using jQuery + Bootstrap while improving overall usability
   - Contributed to CMS enhancements and performed selective backend adjustments
 - **🖼️ Preview:**
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-1.png)
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-2.png)
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-3.png)
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-4.png)
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-5.png)
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-6.png)
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-7.png)
-  ![Preview](mpmrent-corporate-website-and-billing-portal/mpmr-b2b-8.png)
+  ![Preview](seatoday-news-platform/seatoday-news-1.png)
+  ![Preview](seatoday-news-platform/seatoday-news-2.png)
+  ![Preview](seatoday-news-platform/seatoday-news-3.png)
 
 ---
 
